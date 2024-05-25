@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "235878525744",
+    "firebase_url": "https://thrid-rne-default-rtdb.firebaseio.com",
+    "project_id": "thrid-rne",
+    "storage_bucket": "thrid-rne.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235878525744:android:6cbc8a9c3baebb79ddb6f5",
+        "android_client_info": {
+          "package_name": "com.company.handprint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSvTEAv1hFFT5kMuRvNKxKGNYA5NNmVJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
